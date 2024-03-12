@@ -8,7 +8,6 @@ ipython-genutils
 joblib
 more-itertools
 mpmath
-numpy==1.18.5
 parso
 pickleshare
 pillow
@@ -43,7 +42,6 @@ pandas
 pulp<=2.1
 pydotplus
 pyvis
-scikit-learn==0.23.1
 stringdist
 sympy
 cython
@@ -51,5 +49,7 @@ tqdm
 intel-openmp
 mkl
 ruptures
-statsmodels==0.12.1
 ipywidgets
+statsmodels
+scikit-learn
+numpy
